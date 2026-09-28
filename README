@@ -1,39 +1,179 @@
-# 🍷 Australian Wine Company Insights
+# 🍷 Australian Wine Company — Business Insights Dashboard
 
-## Tableau Business Intelligence Dashboard
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange)
+![Analytics](https://img.shields.io/badge/Analytics-Business%20Analytics-green)
 
-Interactive Tableau dashboard developed to analyze sales performance, product trends, customer behavior and key business KPIs for the Australian Wine Company.
+## 📌 Project Overview
 
-### 📊 Dashboard
+The **Australian Wine Company Insights Dashboard** is an interactive business intelligence project developed in **Tableau** to analyze sales performance, product trends, customer behavior and key business KPIs.
 
-🔗 **View Interactive Tableau Dashboard**(https://public.tableau.com/views/AustralianWineCompanyInsightsDashboard_17593967646220/AustralianWineCompanyInsightsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-### 🔍 Topics Covered
-
-- Sales performance analysis
-- Product performance
-- Customer analysis
-- Revenue trends
-- KPI analysis
-- Business performance monitoring
-- Interactive dashboarding
-
-### 🛠️ Tools
-
-- Tableau
-- Data Visualization
-- Business Intelligence
-- Business Analytics
-
-### 🎯 Skills Demonstrated
-
-- Dashboard design
-- KPI development
-- Business analysis
-- Data visualization
-- Trend analysis
-- Interactive reporting
+The project transforms business data into an interactive dashboard that enables users to explore sales patterns, identify high-performing products and customers, and understand overall business performance.
 
 ---
 
-**Author:** Vijay Kumar
+## 🎯 Business Problem
+
+The objective of this project is to provide a consolidated view of business performance and answer key analytical questions such as:
+
+- How is overall sales performance trending?
+- Which products contribute most to sales?
+- Which customers generate the highest business value?
+- How does sales performance vary across different categories?
+- What are the key trends and patterns in the business?
+- Which areas require further investigation or management attention?
+
+The dashboard is designed to support **data-driven business performance monitoring and decision-making**.
+
+---
+
+## 📊 Dashboard
+
+The Tableau dashboard provides an interactive view of:
+
+- Sales performance
+- Revenue trends
+- Product performance
+- Customer analysis
+- KPI tracking
+- Business trends
+- Comparative performance analysis
+
+### 🔗 Interactive Tableau Dashboard
+
+[**View Australian Wine Company Insights Dashboard on Tableau Public**](https://public.tableau.com/views/AustralianWineCompanyInsightsDashboard_17593967646220/AustralianWineCompanyInsightsDashboard)
+
+---
+
+## 🔍 Analysis Covered
+
+### 1. Sales Performance Analysis
+
+- Overall sales performance
+- Revenue trends
+- Sales contribution analysis
+- Period-wise performance
+- Identification of key sales patterns
+
+### 2. Product Analysis
+
+- Product-level performance
+- High-performing products
+- Product contribution to overall sales
+- Comparison of product performance
+
+### 3. Customer Analysis
+
+- Customer-level sales performance
+- Identification of high-value customers
+- Customer contribution analysis
+- Comparison of customer segments
+
+### 4. KPI Analysis
+
+The dashboard provides a consolidated view of important business performance indicators to support quick performance monitoring.
+
+### 5. Trend Analysis
+
+Interactive visualizations help identify:
+
+- Growth and decline patterns
+- Sales trends
+- Product-level changes
+- Customer-level patterns
+- Areas requiring further analysis
+
+---
+
+## 📈 Dashboard Features
+
+- Interactive filters
+- KPI cards
+- Trend analysis
+- Product comparisons
+- Customer analysis
+- Dynamic charts
+- Drill-down exploration
+- Business-focused visual storytelling
+
+---
+
+## 🧠 Business Insights
+
+The analysis demonstrates how business intelligence can be used to:
+
+- Identify important revenue and sales drivers
+- Understand product performance
+- Identify high-value customers
+- Monitor business KPIs
+- Detect trends and performance changes
+- Support data-driven decision-making
+
+The dashboard is intended to convert raw business data into an **easy-to-understand management view of business performance**.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Data Visualization | Tableau |
+| Business Intelligence | Tableau |
+| Data Analysis | Tableau |
+| Dashboarding | Tableau |
+| Reporting | Tableau |
+
+---
+
+## 📚 Skills Demonstrated
+
+- Business Intelligence
+- Business Analytics
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Sales Analytics
+- Customer Analytics
+- Product Performance Analysis
+- Trend Analysis
+- Data Storytelling
+- Interactive Reporting
+
+---
+
+## 💡 Analytical Approach
+
+The project follows a business-focused analytical workflow:
+
+**Business Problem → Data → Analysis → Visualization → Insight → Decision Support**
+
+The objective is not only to visualize data, but to structure the dashboard around questions that are relevant to business performance.
+
+---
+
+## 🎓 Project Context
+
+This project was developed as part of my practical learning and portfolio development in **Data Analytics, Business Intelligence and Data Visualization**.
+
+It demonstrates the application of Tableau to transform business data into an interactive analytical solution.
+
+---
+
+## 👤 Author
+
+**Vijay Kumar**
+
+Business Analytics | Data Analytics | Data Science | Gen AI
+
+🔗 [GitHub](https://github.com/vijaybsbs)  
+🔗 [LinkedIn](https://www.linkedin.com/vijaybsbs)
+
+---
+
+## 🔗 Project Links
+
+**Tableau Public:**  
+[Australian Wine Company Insights Dashboard](https://public.tableau.com/views/AustralianWineCompanyInsightsDashboard_17593967646220/AustralianWineCompanyInsightsDashboard)
+
+**GitHub Portfolio:**  
+[github.com/vijaybsbs](https://github.com/vijaybsbs)
